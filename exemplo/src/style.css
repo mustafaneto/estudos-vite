@@ -1,0 +1,7 @@
+tr.selecionado {
+    background-color: darksalmon;
+}
+
+tbody {
+    cursor: pointer;
+}

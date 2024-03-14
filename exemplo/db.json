@@ -1,0 +1,19 @@
+{
+  "cidades": [
+    {
+      "id": "1",
+      "nome": "Nova Friburgo",
+      "uf": "RJ"
+    },
+    {
+      "id": "3",
+      "nome": "Cordeiro",
+      "uf": "RJ"
+    },
+    {
+      "id": "4",
+      "nome": "Rio Branco",
+      "uf": "AC"
+    }
+  ]
+}

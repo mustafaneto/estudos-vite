@@ -1,0 +1,17 @@
+{
+  "name": "exemplo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "api": "json-server db.json --watch"
+  },
+  "devDependencies": {
+    "json-server": "1.0.0-alpha.23",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.6"
+  }
+}
